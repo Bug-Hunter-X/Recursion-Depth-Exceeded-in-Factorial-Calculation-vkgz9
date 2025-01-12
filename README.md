@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: exceeding the maximum recursion depth.  The `factorial_bug.py` file contains code that attempts to calculate the factorial of 1000 using recursion.  This results in a `RecursionError`. The solution, provided in `factorial_solution.py`, demonstrates iterative calculation of the factorial, avoiding recursion limitations.
